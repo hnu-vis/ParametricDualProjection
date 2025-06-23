@@ -1,7 +1,5 @@
 # Parametric Dual Projection Method
 
-This repository implements the Parametric Dual Projection Method, a framework for advanced data processing and model training. It includes tools for loading datasets, defining models, training, and evaluating performance on MNIST and CIFAR-10 datasets.
-
 ## Installation
 
 The codebase has been tested with **Python 3.8** on **Ubuntu**. To set up the environment and install dependencies, run:
