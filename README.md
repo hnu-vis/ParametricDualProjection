@@ -2,13 +2,13 @@
 
 ## Installation
 
-The codebase has been tested with **Python 3.8** on **Ubuntu**. To set up the environment and install dependencies, run:
+The code has been tested with **Python 3.8** on **Ubuntu**. To set up the environment and install dependencies, run:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Directory Structure
+## Project Structure
 
 The project is organized as follows:
 
