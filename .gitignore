@@ -4,6 +4,7 @@ dataset/
 .pytest_cache/
 log/
 _*.py
+!__*.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
